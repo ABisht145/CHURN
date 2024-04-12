@@ -1,4 +1,4 @@
-#TELECOM CHURN PREDICTION
+# TELECOM CHURN PREDICTION
 
 Customers are the most important assets of any industry and making the old customers stay and gaining new customers is a crucial role for the growth in a market. The customers leaving services of any company are known as churn. These churns depend on many reasons like high customer effort, ineffective marketing, or better offers from competitors.
 
